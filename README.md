@@ -19,7 +19,7 @@ A modern and user-friendly Android Calculator application built using Kotlin and
 
 ![Calculator Screenshot](https://github.com/parineetkakde11/MyCalculator/blob/db5eba2ab1b20f553380460344be08e46cfb8080/calulator_home_page.jpg)
 
-> Add your screenshots to the `screenshots` folder in the project root directory.
+
 
 ## 🛠️ Built With
 
